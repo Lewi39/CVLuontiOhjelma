@@ -1,0 +1,16 @@
+﻿# Eclipse workspace- ja asetustiedostot
+.metadata/
+cv/.metadata/
+.recommenders/
+.settings/
+.classpath
+.project
+
+# Käännöstiedostot
+*.class
+bin/
+build/
+target/
+
+*.exe
+*.jar
